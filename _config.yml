@@ -58,10 +58,10 @@ plugins:
 author:
   name   : "Samuel F Menduiña"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "MSc Comms and Signal Processing, Imperial College London."
+  bio    : "MSc Comms and Signal Processing, ICL. Researcher at AtlanTTIC Research Center."
   links:
     - label: "Scholar"
-      icon: "fas fa-fw fa-scholar"
+      icon: "fas fa-fw fa-googlescholar"
       url: "https://scholar.google.es/citations?user=2V2uFgoAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
