@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Samuel F. Menduiña"
+  name   : "Samuel Fernández Menduiña"
   avatar : "/assets/images/bio-photo.png"
   bio    : "Researcher at AtlantTIC, Uvigo. Master of Science Signal Processing, ICL."
   location : "Vilaboa, Galicia, Spain."
