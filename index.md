@@ -7,13 +7,11 @@ image:
   feature: trees.jpg
 ---
 
-I am a researcher at <a href="https://atlanttic.uvigo.es/" target="_blank">AtlanTTIC</a>, the center for information technologies at the University of Vigo.
+I am a researcher at <a href="https://atlanttic.uvigo.es/" target="_blank">AtlanTTIC</a>, the center for information technologies at the University of Vigo. Currently, I am working in the intersection of signal processing and multimedia forensics techniques.  
 
 <br />
-Previously, I worked at <a href="http://www.vision.ee.ethz.ch/index.en.html" target="_blank">ETHZ</a>
-and <a href="http://www.disneyresearch.com/research-labs/disney-research-zurich/" target="_blank">Disney Research</a>,
-and I collaborated with <a href="http://www.cs.berkeley.edu/~malik/" target="_blank">Prof. J. Malik</a>'s vision group
-and with the startup <a href="https://gestoos.com" target="_blank">Fezoo</a>.
+Previously, I was a MSc student at <a href="http://www.vision.ee.ethz.ch/index.en.html" target="_blank">Imperial College London</a>, where I collaborated with <a href="http://www.cs.berkeley.edu/~malik/" target="_blank">Dr. A. Bhandari</a>'s group
+on the development of new information acquisition schemes.
 
 <br />
-I am a mathematician, engineer, and PhD in computer vision by <a href="http://www.upc.edu" target="_blank">UPC Barcelonatech</a>.
+I am also an electrical engineer by <a href="http://www.upc.edu" target="_blank">University of Vigo</a>.
