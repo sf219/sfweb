@@ -4,7 +4,7 @@ title: About me
 description: "Samuel Fernández Menduiña's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: castineiras.jpg
+  feature: holland-park.jpg
 ---
 
 I am a researcher at the Signal Processing in Communications Group (<a href="http://gpsc.uvigo.es/es" target="_blank">GPSC</a>) of <a href="https://atlanttic.uvigo.es/" target="_blank">AtlanTTIC</a>, the center for information technologies at the University of Vigo. Currently, I am working in the intersection of signal processing and multimedia forensics techniques.  
