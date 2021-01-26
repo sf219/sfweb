@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: My corner
+title: Samuel Fernández Menduiña
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Samuel's personal website.
@@ -56,12 +56,12 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Samuel F Menduiña"
+  name   : "Samuel F. Menduiña"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "MSc Signal Processing, ICL. Researcher at AtlantTIC, Uvigo."
-  location : "Vilaboa, Galicia, Spain"
+  bio    : "Researcher at AtlantTIC, Uvigo. MSc Signal Processing, ICL."
+  location : "Vilaboa, Galicia, Spain."
   links:
-    - label: "Scholar"
+    - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.es/citations?user=2V2uFgoAAAAJ&hl=en"
     - label: "Twitter"
@@ -69,7 +69,7 @@ author:
       url: "https://twitter.com/fm_samu7"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/sfmenduina"      
+      url: "https://linkedin.com/sfmenduina"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sf219"
@@ -85,12 +85,6 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/fm_samu7"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/sf219"
-    - label: "ResearchGate"
-      icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/profile/Samuel_Fernandez9"
 
 defaults:
   # _posts
