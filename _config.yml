@@ -25,6 +25,8 @@ search: false
 # Build settings
 
 markdown: kramdown
+kramdown:
+  extensions: ["strikethrough"]
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
@@ -128,7 +130,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-  
+
 kramdown:
   auto_ids: true
   footnote_nr: 1
