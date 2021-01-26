@@ -22,6 +22,20 @@ github_username: sf219
 minimal_mistakes_skin: contrast
 search: false
 
+# Build settings
+
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: Europe/Marid
+future:      true
+
+include:
+  - _pages
+
 links:
   - title: About me
     url: /posts/
@@ -31,18 +45,6 @@ links:
     url: /posts/
   - title: Blog
     url: /posts/
-# Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: Europe/Marid
-
-include:
-  - _pages
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
