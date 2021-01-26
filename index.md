@@ -14,4 +14,4 @@ Previously, I was a MSc student at <a href="http://www.vision.ee.ethz.ch/index.e
 on the development of new information acquisition schemes.
 
 <br />
-I am also an electrical engineer by <a href="http://www.upc.edu" target="_blank">University of Vigo</a>.
+I am also a telecommunications engineer by the <a href="http://www.upc.edu" target="_blank">University of Vigo</a>.
