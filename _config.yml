@@ -88,7 +88,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/fm_samu7"
-
+    - label: "eMail"
+      icon: "fab fa-fw fa-paper-plane"
+      url: "mailto:sfmenduina@gts.uvigo.es"
 defaults:
   # _posts
   - scope:
