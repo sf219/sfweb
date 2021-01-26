@@ -7,7 +7,7 @@ image:
   feature: trees.jpg
 ---
 
-I am a researcher at the Signal Processing in Communications Group (GPSC) of <a href="https://atlanttic.uvigo.es/" target="_blank">AtlanTTIC</a>, the center for information technologies at the University of Vigo. Currently, I am working in the intersection of signal processing and multimedia forensics techniques.  
+I am a researcher at the Signal Processing in Communications Group (<a href="http://gpsc.uvigo.es/es" target="_blank">GPSC</a>) of <a href="https://atlanttic.uvigo.es/" target="_blank">AtlanTTIC</a>, the center for information technologies at the University of Vigo. Currently, I am working in the intersection of signal processing and multimedia forensics techniques.  
 
 <br />
 Previously, I was a MSc student at <a href="http://www.vision.ee.ethz.ch/index.en.html" target="_blank">Imperial College London</a>, where I collaborated with <a href="http://alumni.media.mit.edu/~ayush/" target="_blank">Dr. A. Bhandari</a>'s group
