@@ -81,7 +81,7 @@ author:
       url: "https://twitter.com/fm_samu7"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/sfmenduina"
+      url: "https://linkedin.com/in/sfmenduina"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sf219"
@@ -109,9 +109,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
-      related: true
+      related: false
   # _pages
   - scope:
       path: "_pages"
