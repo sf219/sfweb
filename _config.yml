@@ -59,10 +59,10 @@ author:
   name   : "Samuel F Menduiña"
   avatar : "/assets/images/bio-photo.png"
   bio    : "MSc Signal Processing, ICL. Researcher at AtlantTIC RC."
-  location : "Vilaboa, Spain"
+  location : "Vilaboa, Galicia, Spain"
   links:
     - label: "Scholar"
-      icon: "fas fa-fw fa-google-scholar"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.es/citations?user=2V2uFgoAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -76,15 +76,18 @@ author:
 
 footer:
   links:
+    - label: "Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.es/citations?user=2V2uFgoAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/fm_samu7"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/sf219"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Samuel_Fernandez9"
 
 defaults:
   # _posts
