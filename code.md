@@ -23,5 +23,5 @@ Here I will drop some pages and facts I have found interesting. Ideally, I would
 </ul>
 ### Technical Resources
 <ul>
-  <li> <a href="https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf" target="_blanck"> The Matrix Cookbook </a> helped me very often while doing algebra.</li>
+  <li> <a href="https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf" target="_blanck"> The Matrix Cookbook </a> helped me very often while dealing with algebra.</li>
 </ul>
