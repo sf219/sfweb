@@ -25,4 +25,6 @@ Here I will drop some pages and facts I have found interesting. Ideally, I would
 ### Technical Resources
 <ul>
   <li> <a href="https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf" target="_blanck"> The Matrix Cookbook </a> helped me very often while dealing with algebra.</li>
+  <br/>
+  <li> For a good guide on setting up your own webpage, have a look at <a href="https://jponttuset.cat/building-an-academic-website/" target="_blanck">Jordi Pont-Tuset's blog</a>, which is at the very foundation of my website. Another interesting resource might be <a href="https://jekyllrb.com/" target="_blanck"> Jekyll's website</a>.</li>
 </ul>
