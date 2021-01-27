@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /code/
+permalink: /misc/
 title: Misc
 tags: [code]
 modified: 3-10-2014
