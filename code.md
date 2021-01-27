@@ -16,8 +16,12 @@ Here I will drop some pages and facts I have found interesting. Ideally, I would
   <br/>
 
   <li>My <a href="https://mathscinet.ams.org/mathscinet/freeTools.html?version=2" target="_blank">Erdös number</a> is four: S. Fernández-Menduiña → F. Pérez-González → S. J. Miller → M. Ram Murty → P. Erdös.</li>
+  
+  <br/>
+  <li>I found the way in which information is communicated to be an art in itself. I try (sometimes with little success) to follow some guidelines. </li>
+ 
 </ul>
-### Didactical
-
-### Web
-
+### Technical Resources
+<ul>
+  <li> <a href="https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf" target="_blanck"> The Matrix Cookbook </a> helped me very often while doing algebra.</li>
+</ul>
