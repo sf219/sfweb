@@ -11,7 +11,7 @@ Here I will drop some pages and facts I have found interesting. Ideally, I would
 
 ### Research
 
-My <a href="https://mathscinet.ams.org/mathscinet/freeTools.html?version=2" target="_blank">Erdös number</a> is four: S. Fernández-Menduiña $\rightarrow$ F. Pérez-González $\rightarrow$ S. J. Miller $\rightarrow$ M. Ram Murty $\rightarrow$ P. Erdös.
+My <a href="https://mathscinet.ams.org/mathscinet/freeTools.html?version=2" target="_blank">Erdös number</a> is four: S. Fernández-Menduiña &#8594 F. Pérez-González &#8594 S. J. Miller &#8594 M. Ram Murty &#8594 P. Erdös.
 
 ### Didactical
 
