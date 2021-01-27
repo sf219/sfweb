@@ -6,7 +6,7 @@ tags: [code]
 modified: 3-10-2014
 comments: false
 ---
-
+<div align="justify">
 Here I will drop some pages and facts I have found interesting. Ideally, I would like it to become a curated list of relevant resources available on the internet. Let's see how it works in practice.
 
 ### Research
@@ -30,3 +30,4 @@ Here I will drop some pages and facts I have found interesting. Ideally, I would
   <br/>
   <li> For typing LaTeX, Sublime Text with the <a href="https://jdhao.github.io/2018/03/10/sublime-text-latextools-setup/" target="_blanck"> LatexTools package </a> + Sumatra PDF works like a charm for me. When collaborating, <a href="https://www.overleaf.com/" target="_blanck">Overleaf</a> is my way to go.</li>
   </ul>
+</div>
