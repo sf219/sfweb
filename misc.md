@@ -32,5 +32,7 @@ Here I will drop some pages and facts I have found interesting. Ideally, I would
   <li> For a good guide on setting up your own webpage, have a look at <a href="https://jponttuset.cat/building-an-academic-website/" target="_blanck">Jordi Pont-Tuset's blog</a>, which is at the very foundation of my website. Another interesting resource might be <a href="https://jekyllrb.com/" target="_blanck"> Jekyll's website</a>.</li>
   <br/>
   <li> For typing LaTeX, Sublime Text with the <a href="https://jdhao.github.io/2018/03/10/sublime-text-latextools-setup/" target="_blanck"> LatexTools package </a> + Sumatra PDF works like a charm for me. When collaborating, <a href="https://www.overleaf.com/" target="_blanck">Overleaf</a> is my way to go.</li>
+ <br/>
+ <li> A comparison of different reference management software can be found <a href="https://mediatum.ub.tum.de/doc/1320978/1320978.pdf" target="_blanck">here</a> (I use JabRef). </li>  
   </ul>
 </div>
