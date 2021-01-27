@@ -7,10 +7,11 @@ modified: 3-10-2014
 comments: false
 ---
 
-Here I will drop some pages and files I have found interesting. Ideally, I would like it to become a curated list of relevant resources available on the internet. Let's see how it works in practice.
+Here I will drop some pages and facts I have found interesting. Ideally, I would like it to become a curated list of relevant resources available on the internet. Let's see how it works in practice.
 
 ### Research
 
+My <a href="https://mathscinet.ams.org/mathscinet/freeTools.html?version=2" target="_blank">Erdös number</a> is four: S. Fernández-Menduiña --> F. Pérez-González --> S J Miller --> M. Ram Murty.
 
 ### Didactical
 
