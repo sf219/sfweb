@@ -18,7 +18,7 @@ Here I will drop some pages and facts I have found interesting. Ideally, I would
   <li>My <a href="https://mathscinet.ams.org/mathscinet/freeTools.html?version=2" target="_blank">Erdös number</a> is four: S. Fernández-Menduiña → F. Pérez-González → S. J. Miller → M. Ram Murty → P. Erdös.</li>
   
   <br/>
-  <li>I found the way in which information is communicated to be an art in itself. I try (sometimes with little success) to follow some guidelines <a href="https://www.nature.com/articles/s41467-020-19160-7" target="_blanck"> on the use of color</a>, while <a href="http://personal.cege.umn.edu/~smith/supplements/poster/guide.htm" target="_blanck"> preparing posters </a> or <a href="https://www.uts.edu.au/current-students/support/helps/self-help-resources/presentation-skills/conference-presentations" target="_blanck"> presentations</a>, and while <a href="https://media.nature.com/original/magazine-assets/d41586-018-02404-4/d41586-018-02404-4.pdf" target="_blanck"> writing papers</a>. </li>
+  <li>I found the way in which information is communicated to be an art in itself. I try (sometimes with little success) to follow some guidelines <a href="https://www.nature.com/articles/s41467-020-19160-7" target="_blanck"> on the use of color</a>, or while <a href="http://personal.cege.umn.edu/~smith/supplements/poster/guide.htm" target="_blanck"> preparing posters </a>, <a href="https://www.uts.edu.au/current-students/support/helps/self-help-resources/presentation-skills/conference-presentations" target="_blanck"> presentations</a>, and <a href="https://media.nature.com/original/magazine-assets/d41586-018-02404-4/d41586-018-02404-4.pdf" target="_blanck"> writing papers</a>. </li>
  
 </ul>
 ### Technical Resources
