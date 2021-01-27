@@ -11,7 +11,7 @@ Here I will drop some pages and facts I have found interesting. Ideally, I would
 
 <br/><br/>
 <b> Research </b>
-<br/><br/>
+<br/>
 
 <ul>
   <li>You can access our ENF Moving Videos Database, which has been downloaded more than 500 times, <a href="http://doi.org/10.5281/zenodo.3549379" target="_blank">here</a>.</li>
@@ -28,7 +28,7 @@ Here I will drop some pages and facts I have found interesting. Ideally, I would
 
 <br/><br/>
 <b> Technical Resources </b>
-<br/><br/>
+<br/>
 
 <ul>
   <li> <a href="https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf" target="_blanck"> The Matrix Cookbook </a> helped me very often while dealing with algebra.</li>
