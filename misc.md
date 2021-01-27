@@ -12,7 +12,7 @@ Here I will drop some pages and facts I have found interesting. Ideally, I would
 <h3> Research </h3>
 
 <ul>
-  <li>You can access our ENF Moving Videos Database, which has been downloaded more than 500 times, <a href="http://doi.org/10.5281/zenodo.3549379" target="_blank">here</a>.</li>
+  <li>You can access our ENF Moving Videos Database, which has been downloaded more than 500 times, by clicking <a href="http://doi.org/10.5281/zenodo.3549379" target="_blank">here</a>.</li>
 
   <br/>
 
