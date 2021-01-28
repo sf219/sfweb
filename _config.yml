@@ -53,7 +53,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
     - label: "Checking my Google Scholar profile"
       url: "https://scholar.google.es/citations?user=2V2uFgoAAAAJ&hl=en"
-      icon: "fas fa-fw fa-graduation-cap"      
+      icon: "fab fa-fw fa-graduation-cap"      
       
 kramdown:
   auto_ids: true
