@@ -48,11 +48,9 @@ permalink:   /:categories/:title/
 # Site Footer
 footer:
   links:
-    - label: "e-Mail"
-      icon: "fa fa-envelope-square"
+    - label: "Send me an e-Mail"
       url: "mailto:sfmenduina@gts.uvigo.es"
-    - label: "Twitter"
-      icon: "fa fa-twitter-square"
+    - label: "Follow me on Twitter"
       url: "https://twitter.com/fm_samu7"
 
 kramdown:
