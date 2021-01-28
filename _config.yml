@@ -46,11 +46,14 @@ permalink:   /:categories/:title/
 footer:
   links:
     - label: "Sending me an e-Mail"
+      icon: "fab fa-fw fa-envelope"
       url: "mailto:sfmenduina@gts.uvigo.es"
     - label: "Following me on Twitter"
       url: "https://twitter.com/fm_samu7"
+      icon: "fab fa-fw fa-twitter-square"
     - label: "Checking my Google Scholar profile"
       url: "https://scholar.google.es/citations?user=2V2uFgoAAAAJ&hl=en"
+      icon: "fab fa-fw fa-academic-hat"      
       
 kramdown:
   auto_ids: true
