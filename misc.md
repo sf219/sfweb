@@ -36,7 +36,8 @@ Here I will drop some pages and facts I have found interesting. Most of them are
  <li> A comparison of different reference management software can be found <a href="https://mediatum.ub.tum.de/doc/1320978/1320978.pdf" target="_blanck">here</a>. Personally, I like <a href="https://www.jabref.org/" target="_blanck">JabRef</a>. For keeping the publications page up to date, I use <a href="https://github.com/fitheart/PubListX" target="_blanck">PubListX</a>.  </li>  
  <br/>
   <li> I rely on <a href= "https://www.mathcha.io/" target = "_blanck"> Mathcha </a> for doing diagrams with mathematical formulas. </li>   
+   <br/>
+  <li> <a href="https://app.grammarly.com/" target="_blanck">Grammarly</a> helps a lot. I'm still surprised they don't have support for Spanish texts, I'd use it for sure. </li>   
+
   </ul>
-  <li> Grammarly helps a lot. I'm still surprised they don't have support for Spanish texts, I'd use it for sure. </li>   
-  </ul>  
 </div>
