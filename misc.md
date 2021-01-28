@@ -7,7 +7,7 @@ modified: 3-10-2014
 comments: false
 ---
 <div align="justify">
-Here I will drop some pages and facts I have found interesting. Ideally, I would like it to become a curated list of relevant resources available on the internet. Let's see how it works in practice.
+Here I will drop some pages and facts I have found interesting. Most of them are resources that make my life easier. Others, tools I wish someone had told me about before. Ideally, I would like it to become a curated list of relevant resources available on the internet. Let's see how it works in practice.
 
 <h3> Research </h3>
 
