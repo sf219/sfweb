@@ -13,8 +13,13 @@
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
-
-<title>{{ site.title }} {% if page.title %} &#8211; {{ page.title }} {% endif %}</title>
+<style>
+#bibs{
+font-size: 1em; 
+color: #202EFF;
+	}	
+</style>	
+<title id="bibs">{{ site.title }} {% if page.title %} &#8211; {{ page.title }} {% endif %}</title>
 <meta name="description" content="{{ page.description }}">
 <meta name="keywords" content="{{ page.tags | join: ', ' }}">
 {% if site.owner.twitter %}<!-- Twitter Cards -->
