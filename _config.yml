@@ -51,9 +51,9 @@ footer:
     - label: "Twitter"
       icon: "fa fa-twitter-square"
       url: "https://twitter.com/fm_samu7"
-    - label: "Scholar"
-      icon: "ai ai-google-scholar-square"
-      url: "https://scholar.google.es/citations?user=2V2uFgoAAAAJ&hl=en"
+    - label: "e-Mail"
+      icon: "fa fa-envelope"
+      url: "mailto:sfmenduina@gts.uvigo.es"
 
 
 kramdown:
