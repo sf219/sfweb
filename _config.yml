@@ -49,7 +49,7 @@ permalink:   /:categories/:title/
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fa fa-twitter-square"
       url: "https://twitter.com/fm_samu7"
     - label: "Scholar"
       icon: "ai ai-google-scholar-square"
