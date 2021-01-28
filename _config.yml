@@ -52,7 +52,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/fm_samu7"
     - label: "Scholar"
-      icon: "fab fa-fw fa-school"
+      icon: "ai ai-google-scholar-square"
       url: "https://scholar.google.es/citations?user=2V2uFgoAAAAJ&hl=en"
 
 
