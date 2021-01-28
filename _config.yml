@@ -48,11 +48,11 @@ permalink:   /:categories/:title/
 # Site Footer
 footer:
   links:
-    - label: "Send me an e-Mail"
+    - label: "Sending me an e-Mail"
       url: "mailto:sfmenduina@gts.uvigo.es"
-    - label: "Follow me on Twitter"
+    - label: "Following me on Twitter"
       url: "https://twitter.com/fm_samu7"
-    - label: "Check my Google Scholar profile"
+    - label: "Checking my Google Scholar profile"
       url: "https://scholar.google.es/citations?user=2V2uFgoAAAAJ&hl=en"
       
 kramdown:
