@@ -19,7 +19,7 @@
 		<nav role="navigation" id="site-nav" class="nav">
 		    <ul>
 		        {% for link in site.links %}
-				<div style="border-bottom:3px solid black"><li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li></div> 
+				<li> <div style="border-bottom:3px solid black"> <a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></div></li> 
 			{% endfor %}
 		    </ul>
 		</nav>
