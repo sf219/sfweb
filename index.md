@@ -15,6 +15,6 @@ developing new information acquisition schemes.
 
 <br/><br/>
 
-I am also a telecommunications engineer by the <a href="https://www.uvigo.gal/" target="_blank">University of Vigo</a> and a <a href="https://fundacionbarrie.org/index.php?newlang=english" target="_blank">Barrie Foundation</a>  Scholar.
+I am also a telecommunications engineer by the <a href="https://www.uvigo.gal/" target="_blank">University of Vigo</a> and a <a href="https://fundacionbarrie.org/index.php?newlang=english" target="_blank">Barrié Foundation</a>  Scholar.
 
 </div>
