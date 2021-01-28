@@ -4,7 +4,7 @@
 <head>
 <style>
 #div1 {
-    border-top: 2px solid black;    
+    border-top: 3px solid black;    
     float: none;
     margin: 0 auto;
     text-align:left;
@@ -22,7 +22,7 @@
     {% if site.footer.links %}
       {% for link in site.footer.links %}
         {% if link.label and link.url %}
-          <a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a>   
+          <p><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></p> 
         {% endif %}
       {% endfor %}
     {% endif %}
