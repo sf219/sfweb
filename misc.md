@@ -33,7 +33,7 @@ Here I will drop some pages and facts I have found interesting. Ideally, I would
   <br/>
   <li> For typing LaTeX, Sublime Text with the <a href="https://jdhao.github.io/2018/03/10/sublime-text-latextools-setup/" target="_blanck"> LatexTools package </a> + Sumatra PDF works like a charm for me. When collaborating, <a href="https://www.overleaf.com/" target="_blanck">Overleaf</a> is my way to go. A review of different options can be found <a href="https://tex.stackexchange.com/questions/339/latex-editors-ides" target = "_blanck">here</a>.</li>
  <br/>
- <li> A comparison of different reference management software can be found <a href="https://mediatum.ub.tum.de/doc/1320978/1320978.pdf" target="_blanck">here</a> (I use JabRef). </li>  
+ <li> A comparison of different reference management software can be found <a href="https://mediatum.ub.tum.de/doc/1320978/1320978.pdf" target="_blanck">here</a>. Personally, I like JabRef. For keeping the publications page up to date, I use <a href="https://github.com/fitheart/PubListX" target="_blanck">PubListX</a>.  </li>  
  <br/>
   <li> I rely on <a href= "https://www.mathcha.io/" target = "_blanck"> Mathcha </a> for doing diagrams with mathematical formulas. </li>   
   </ul>
