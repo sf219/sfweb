@@ -37,4 +37,6 @@ Here I will drop some pages and facts I have found interesting. Most of them are
  <br/>
   <li> I rely on <a href= "https://www.mathcha.io/" target = "_blanck"> Mathcha </a> for doing diagrams with mathematical formulas. </li>   
   </ul>
+  <li> Grammarly helps a lot. I'm still surprised they don't have support for Spanish texts, I'd use it for sure. </li>   
+  </ul>  
 </div>
