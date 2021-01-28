@@ -45,6 +45,17 @@ kramdown:
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
 
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/fm_samu7"
+    - label: "Scholar"
+      icon: "fab fa-fw fa-graduation-cap"
+      url: "https://scholar.google.es/citations?user=2V2uFgoAAAAJ&hl=en"
+
+
 kramdown:
   auto_ids: true
   footnote_nr: 1
