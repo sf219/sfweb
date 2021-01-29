@@ -6,10 +6,18 @@ tags: [code]
 modified: 3-10-2014
 comments: false
 ---
+<head>
+<style>
+#hh{
+font-family: Tahoma;	
+	} 
+</style>  
+</head>  
+<body>
 <div align="justify">
 Here I will drop some pages and facts I have found interesting. Most of them are resources that make my life easier. Others, tools I wish someone had told me about before. Ideally, I would like it to become a curated list of relevant resources available on the internet. Let's see how it works in practice.
 
-<h3> Research </h3>
+<h3 id="hh"> Research </h3>
 
 <ul>
   <li>You can access our ENF Moving Videos Database, which has been downloaded more than <strong>five hundred times</strong>, by clicking <a href="http://doi.org/10.5281/zenodo.3549379" target="_blank">here</a>.</li>
@@ -24,7 +32,7 @@ Here I will drop some pages and facts I have found interesting. Most of them are
  <li>Some interesting things, very up-to-date due to the COVID crisis, on <a href="https://www.reuters.com/article/us-science-cancer-idUSBRE82R12P20120328" target = "_blanck">research replicability or selective inference</a>, <a href="http://slow-science.org/" target="_blanck">slow science</a>, and <a href="https://www.eurekalert.org/pub_releases/2019-02/ru-cwt021119.php" target = "_blanck">machine learning</a>. </li>
 </ul>
 
-<h3> Technical Resources </h3>
+<h3 id="hh"> Technical Resources </h3>
 
 <ul>
   <li> <a href="https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf" target="_blanck"> The Matrix Cookbook </a> helped me very often while dealing with algebra.</li>
@@ -41,3 +49,4 @@ Here I will drop some pages and facts I have found interesting. Most of them are
 
   </ul>
 </div>
+</body>
