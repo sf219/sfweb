@@ -29,7 +29,7 @@ The electrical network has a nominal frequency of 50 Hz. That is, theoretically,
 <br />
 <br />
 <p>
-Even though, due to the generating mechanisms of the electrical energy, when the power demand increases, the frequency decreases slightly (and conversely, when the power demand decreases, the frequency increases). In large scale networks, this leads to a random frequency drift, that can be considered unique in time. For instance, you may check the frequency in the European grid in real-time <a href="https://www.swissgrid.ch/en/home/operation/grid-data/current-data.html#frequency" target="_blanck">here</a>.
+Even though, due to the generating mechanisms of the electrical energy, when the power demand increases, the frequency decreases slightly (and conversely, when the power demand decreases the frequency increases). In large scale networks, this leads to random frequency drift, that can be considered unique in time. For instance, you may check the frequency in the European grid in real-time <a href="https://www.swissgrid.ch/en/home/operation/grid-data/current-data.html#frequency" target="_blanck">here</a>.
 </p>
 <br style="line-height:0px;" />
 
@@ -43,7 +43,7 @@ Hence, the variations in the frequency of the network translate to variations in
 <br style="line-height:0px;" />
 
 <p>
-You may wonder why you don't see this variation with your own eyes. Well, it's simply too fast. Cameras are able to record it due to a SigProc phenomena called aliasing, that reduces significantly the frequency of the blink. But it's unreachable for the human eye.
+You may wonder why you don't see this variation with your own eyes. Well, it's simply too fast. Cameras can record it due to a SigProc phenomenon called aliasing, that reduces significantly the frequency of the blink. But it's unreachable for the human eye.
   </p>
   <br style="line-height:0px;" />
 <p>
