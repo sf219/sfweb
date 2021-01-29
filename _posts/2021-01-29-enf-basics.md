@@ -11,12 +11,12 @@ comments: true
 <p>
 In this post, I aim to give a quick intro to the Electrical Network Frequency (ENF) and to provide a motivation to our letter on SPL.
  </p>
- <br />
+ <br style="line-height:0px;" />
 
 <p>
 First of all, the ENF is the name of a forensic criterion used in digital videos or audio recordings. For simplicity, I'll focus on the video scenario. It has tons of applications, as <a href="https://aidfork.uvigo.es/solutions/vidinger/" target="_blanck">time of recording verification</a>, <a href="https://terpconnect.umd.edu/~oard/pdf/icassp14.pdf" target="_blanck">synchronization</a>, or <a href="https://www.researchgate.net/profile/Yongjian_Hu/publication/262163750_Audio_Forgery_Detection_Based_on_Max_Offsets_for_Cross_Correlation_between_ENF_and_Reference_Signal/links/559b32cc08ae793d13822933.pdf" target="_blanck">forgery detection</a>, to name a few. But, how does it work?
  </p>
-<br />
+<br style="line-height:0px;" />
 
 <p>
 The electrical network has a nominal frequency of 50 Hz. That is, theoretically, it should be a beautiful waveform, as the following one:
@@ -31,21 +31,21 @@ The electrical network has a nominal frequency of 50 Hz. That is, theoretically,
 <p>
 Even though, due to the generating mechanisms of the electrical energy, when the power demand increases, the frequency decreases slightly (and conversely, when the power demand decreases, the frequency increases). In large scale networks, this leads to a random frequency drift, that can be considered unique in time. For instance, you may check the frequency in the European grid in real-time <a href="https://www.swissgrid.ch/en/home/operation/grid-data/current-data.html#frequency" target="_blanck">here</a>.
 </p>
-<br />
+<br style="line-height:0px;" />
 
 <p>
 Finally, when using the voltage from the network to power lamps, the luminance they produce is proportional to the intensity they receive. Those skilled in the art would know there is a rectification process as well, but we shouldn't spoil a good story with non-linearities, should we?
   </p>
-  <br />
+  <br style="line-height:0px;" />
 <p>
 Hence, the variations in the frequency of the network translate to variations in the luminance of the lamps. And they can be captured with digital cameras. Don't believe me? Check this <a href="https://youtu.be/u2g2YKe5Gcc" target="_blanck">Youtube video</a>. Or, for a realistic scenario, you can check this <a href="https://www.youtube.com/watch?v=rCgGNPl9DmM" target="_blanck">one</a>. Do you see the blink in the background? That's the ENF.
   </p>
-<br />
+<br style="line-height:0px;" />
 
 <p>
 You may wonder why you don't see this variation with your own eyes. Well, it's simply too fast. Cameras are able to record it due to a SigProc phenomena called aliasing, that reduces significantly the frequency of the blink. But it's unreachable for the human eye.
   </p>
-  <br />
+  <br style="line-height:0px;" />
 <p>
 Then, comparing this frequency with a ground-truth (a reference signal you know that is right in advance) would allow you to obtain, for example, the time of recording. Remember, the frequency is unique in time: it would only match with the correct segment.
   </p>
