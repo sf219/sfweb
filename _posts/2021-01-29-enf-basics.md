@@ -4,6 +4,7 @@ title: "SPL2020-I: An invisible time-stamp"
 description: "SPL2020-I: An invisible time-stamp"
 comments: true
 ---
+<div align="justify">
 In this post, I aim to give a quick intro to the Electrical Network Frequency (ENF) and to provide a motivation to our letter on SPL.
 
 <br/>
@@ -64,3 +65,4 @@ And this is the problem we tried to solve in our paper. As an spoiler, we obtain
 <br />
 
 But I may write another entry only devoted to this. Hope you find this entertaining!
+</div>
