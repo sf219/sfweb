@@ -47,17 +47,7 @@ You may wonder why you don't see this variation with your own eyes. Well, it's s
   </p>
   <br />
 <p>
-All you have to do is to take the video, average the luminance of every pixel, and estimate the frequency (there are lots of methods with flashy names, as MUSIC or ESPRIT, for doing it).
-</p>
-<br />
-
-<p>
 Then, comparing this frequency with a ground-truth (a reference signal you know that is right in advance) would allow you to obtain, for example, the time of recording. Remember, the frequency is unique in time: it would only match with the correct segment.
-  </p>
-<br />
-
-<p>
-Here you have an example. The red one is obtained directly from the Internet, while the blue one is obtained from a video recorded on real time.
   </p>
 <br />
    <table width="100%" height="100%" align="center" valign="center">
@@ -67,7 +57,7 @@ Here you have an example. The red one is obtained directly from the Internet, wh
 <br />
 <br />
 <p>
-  Everything seems pretty easy. Now, I can introduce one of the real problems. What if the ENF is not the only source of variation in the luminance of the video? What if, for instance, there is movement? Logically, most of the interesting videos in practice have movement. The method I depicted above fails under this scenario...
+  Everything seems pretty easy. Now, I can introduce one of the real problems. What if the ENF is not the only source of variation in the luminance of the video? What if, for instance, there is movement? Logically, most of the interesting videos in practice have movement. The method I depicted above fails under this scenario (now, the blue one is the ground truth):
 </p>
 <br />
    <table width="100%" height="100%" align="center" valign="center">
