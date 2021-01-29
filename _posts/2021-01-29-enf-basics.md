@@ -34,7 +34,11 @@ You may wonder why you don't see this variation with your own eyes. Well, it's s
 
 <br/>
 
-Then, all you have to do is to take the video, average the luminance of every pixel, and estimate the frequency (there are lots of methods with flashy names, as MUSIC or ESPRIT, for doing it). Then, comparing this frequency with a ground-truth (a reference signal you know that is right in advance) would allow you to obtain, for example, the time of recording. Remember, the frequency is unique in time: it would only match with the correct segment.
+All you have to do is to take the video, average the luminance of every pixel, and estimate the frequency (there are lots of methods with flashy names, as MUSIC or ESPRIT, for doing it).
+
+<br/>
+
+Then, comparing this frequency with a ground-truth (a reference signal you know that is right in advance) would allow you to obtain, for example, the time of recording. Remember, the frequency is unique in time: it would only match with the correct segment.
 
 <br/>
 
