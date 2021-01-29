@@ -5,14 +5,6 @@ description: "SPL2020-I: An invisible time-stamp"
 comments: true
 ---
 <head>
-<style>
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style> 
 </head> 
 <body>
 <div align="justify">
@@ -30,7 +22,10 @@ First of all, the ENF is the name of a forensic criterion used in digital videos
 The electrical network has a nominal frequency of 50 Hz. That is, theoretically, it should be a beautiful waveform, as the following one:
 </p>
 <br />
+   <table width="100%" height="100%" align="center" valign="center">
+   <tr><td>
 <img src="{{ site.url }}/images_posts/SPL_I/temporal_perfect.png" class="center">
+     </td></tr></table>
 <br />
 <br />
 <p>
