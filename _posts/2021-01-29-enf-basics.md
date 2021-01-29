@@ -47,7 +47,7 @@ You may wonder why you don't see this variation with your own eyes. Well, it's s
   </p>
   <br style="line-height:0px;" />
 <p>
-Then, comparing this frequency with a ground-truth (a reference signal you know in advance) would allow you to obtain, for example, the time of recording. Remember, the frequency is unique in time: it would only match with the correct segment. Have a look at this example. The red one comes from the Internet, the blue one from a video recorded on real-time:
+Then, comparing this frequency with a ground-truth (a reference signal you know in advance) allows us to obtain, for example, the time of recording. Remember, the frequency is unique in time: it would only match with the correct segment. Have a look at this example. The red one comes from the Internet, the blue one from a video recorded on real-time:
   </p>
 <br />
    <table width="100%" height="100%" align="center" valign="center">
