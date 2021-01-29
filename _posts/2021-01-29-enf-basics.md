@@ -9,7 +9,7 @@ In this post, I aim to give a quick intro to the Electrical Network Frequency (E
 
 <br/>
 
-First of all, the ENF is the name of a forensic criterion used in digital videos or audio recordings. For simplicity, I'll focus on the video scenario. It has tons of applications, as [time of recording verification](https://aidfork.uvigo.es/solutions/vidinger/), [synchronization](https://terpconnect.umd.edu/~oard/pdf/icassp14.pdf), or [forgery detection](https://www.researchgate.net/profile/Yongjian_Hu/publication/262163750_Audio_Forgery_Detection_Based_on_Max_Offsets_for_Cross_Correlation_between_ENF_and_Reference_Signal/links/559b32cc08ae793d13822933.pdf), to name a few. But, how does it work?
+First of all, the ENF is the name of a forensic criterion used in digital videos or audio recordings. For simplicity, I'll focus on the video scenario. It has tons of applications, as <a href="https://aidfork.uvigo.es/solutions/vidinger/" target="_blanck">time of recording verification</a>, <a href="https://terpconnect.umd.edu/~oard/pdf/icassp14.pdf" target="_blanck">synchronization</a>, or <a href="https://www.researchgate.net/profile/Yongjian_Hu/publication/262163750_Audio_Forgery_Detection_Based_on_Max_Offsets_for_Cross_Correlation_between_ENF_and_Reference_Signal/links/559b32cc08ae793d13822933.pdf" target="_blanck">forgery detection</a>, to name a few. But, how does it work?
 
 <br/>
 
@@ -19,7 +19,7 @@ The electrical network has a nominal frequency of 50 Hz. That is, theoretically,
 <br />
 <br />
 
-Even though, due to the generating mechanisms of the electrical energy, when the power demand increases, the frequency decreases slightly (and conversely, when the power demand decreases, the frequency increases). In large scale networks, this leads to a random frequency drift, that can be considered unique in time. For instance, you may check the frequency in the European grid in real-time [here](https://www.swissgrid.ch/en/home/operation/grid-data/current-data.html#frequency).
+Even though, due to the generating mechanisms of the electrical energy, when the power demand increases, the frequency decreases slightly (and conversely, when the power demand decreases, the frequency increases). In large scale networks, this leads to a random frequency drift, that can be considered unique in time. For instance, you may check the frequency in the European grid in real-time <a href="https://www.swissgrid.ch/en/home/operation/grid-data/current-data.html#frequency" target="_blanck">here.
 
 <br/>
 
@@ -27,7 +27,7 @@ Finally, when using the voltage from the network to power lamps, the luminance t
 
 <br/>
 
-Hence, the variations in the frequency of the network translate to variations in the luminance of the lamps. And they can be captured with digital cameras. Don't believe me? Check this [Youtube video](https://youtu.be/u2g2YKe5Gcc). Or, for a realistic scenario, you can check this [one](https://www.youtube.com/watch?v=rCgGNPl9DmM). Do you see the blink in the background? That's the ENF.
+Hence, the variations in the frequency of the network translate to variations in the luminance of the lamps. And they can be captured with digital cameras. Don't believe me? Check this <a href="https://youtu.be/u2g2YKe5Gcc" target="_blanck">Youtube video</a>. Or, for a realistic scenario, you can check this <a href="https://www.youtube.com/watch?v=rCgGNPl9DmM" target="_blanck">one</a>. Do you see the blink in the background? That's the ENF.
 
 <br/>
 
