@@ -67,7 +67,7 @@ Then, comparing this frequency with a ground-truth (a reference signal you know 
 <br />
 <br />
 <p>
-  And this is the problem we tried to solve in our paper. As an spoiler, we obtained this:
+  And this is the problem we tried to solve in our paper. As an spoiler, we obtained:
 </p>
    <table width="100%" height="100%" align="center" valign="center">
    <tr><td>
@@ -76,7 +76,7 @@ Then, comparing this frequency with a ground-truth (a reference signal you know 
 <br />
 <br />
 <p>
-  But I may write another entry only devoted to this. Hope you find this entertaining!
+  But I may write another entry only devoted to this. Hope you find the post entertaining!
 </p>
 </div>
 </body>
