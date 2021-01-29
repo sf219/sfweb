@@ -56,20 +56,29 @@ Then, comparing this frequency with a ground-truth (a reference signal you know 
 Here you have an example. The red one is obtained directly from the Internet, while the blue one is obtained from a video recorded on real time.
   </p>
 <br />
+   <table width="100%" height="100%" align="center" valign="center">
+   <tr><td>
 <img class="center" src="{{ site.url }}/images_posts/SPL_I/enf.png">
+    </td></tr></table>
 <br />
 <br />
 <p>
   Everything seems pretty easy. Now, I can introduce one of the real problems. What if the ENF is not the only source of variation in the luminance of the video? What if, for instance, there is movement? Logically, most of the interesting videos in practice have movement. The method I depicted above fails under this scenario...
 </p>
 <br />
+   <table width="100%" height="100%" align="center" valign="center">
+   <tr><td>
 <img class="center" src="{{ site.url }}/images_posts/SPL_I/state_of_the_art.png">
+    </td></tr></table>
 <br />
 <br />
 <p>
   And this is the problem we tried to solve in our paper. As an spoiler, we obtained this:
 </p>
+   <table width="100%" height="100%" align="center" valign="center">
+   <tr><td>
   <img class="center" src="{{ site.url }}/images_posts/SPL_I/completo.png">
+    </td></tr></table>
 <br />
 <br />
 <p>
