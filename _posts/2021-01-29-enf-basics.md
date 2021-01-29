@@ -15,7 +15,7 @@ First of all, the ENF is the name of a forensic criterion used in digital videos
 
 The electrical network has a nominal frequency of 50 Hz. That is, theoretically, it should be a beautiful waveform, as the following one:
 <br />
-<img align="middle" width="500" src="{{ site.url }}/images_posts/SPL-I/temporal_perfect.png" alt="...">
+<img align="middle" width="500" src="{{ site.url }}/images_posts/SPL_I/temporal_perfect.png" alt="...">
 <br />
 <br />
 
@@ -46,21 +46,21 @@ Then, comparing this frequency with a ground-truth (a reference signal you know 
 Here you have an example. The red one is obtained directly from the Internet, while the blue one is obtained from a video recorded on real time.
 
 <br />
-<img align="middle" width="500" src="{{ site.url }}/images_posts/SPL-I/enf.png" alt="...">
+<img align="middle" width="500" src="{{ site.url }}/images_posts/SPL_I/enf.png" alt="...">
 <br />
 <br />
 
 Everything seems pretty easy. Now, I can introduce one of the real problems. What if the ENF is not the only source of variation in the luminance of the video? What if, for instance, there is movement? Logically, most of the interesting videos in practice have movement. The method I depicted above fails under this scenario...
 
 <br />
-<img align="middle" width="500" src="{{ site.url }}/images_post/SPL-I/state_of_the_art.png" alt="...">
+<img align="middle" width="500" src="{{ site.url }}/images_post/SPL_I/state_of_the_art.png" alt="...">
 <br />
 <br />
 
 And this is the problem we tried to solve in our paper. As an spoiler, we obtained this:
 
 <br />
-<img align="middle" width="500" src="{{ site.url }}/images_posts/SPL-I/completo.png" alt="...">
+<img align="middle" width="500" src="{{ site.url }}/images_posts/SPL_I/completo.png" alt="...">
 <br />
 <br />
 
