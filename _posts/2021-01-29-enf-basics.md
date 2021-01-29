@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "SPL2020-I: The ENF: the not so invisible time-stamp"
-description: "SPL2020-I: The ENF: the not so invisible time-stamp"
+title: "SPL2020-I: ENF: the not so invisible time-stamp"
+description: "SPL2020-I: ENF: the not so invisible time-stamp"
 comments: true
 ---
 <head>
