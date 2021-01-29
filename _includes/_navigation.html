@@ -8,7 +8,7 @@
 #div2 {
   font-size: 12px;
 }
-#hh{
+#hhh{
   font-family:Tahoma;
   text-transform: capitalize;
   font-weight:normal; 	
@@ -18,13 +18,13 @@
     <body>
 <div  class="navigation-wrapper">
 	<div class="site-name">
-		<a id = "hh" href="{{ site.url }}"><strong>{{ site.title }}</strong></a>
+		<a id = "hhh" href="{{ site.url }}"><strong>{{ site.title }}</strong></a>
 	</div><!-- /.site-name -->
 	<div class="top-navigation">
 		<nav role="navigation" id="site-nav" class="nav">
 		    <ul>
 		        {% for link in site.links %}
-				<li id="hh"><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li> 
+				<li id="hhh"><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li> 
 			{% endfor %}
 		    </ul>
 		</nav>
