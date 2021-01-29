@@ -34,7 +34,7 @@ Even though, due to the generating mechanisms of the electrical energy, when the
 <br style="line-height:0px;" />
 
 <p>
-Finally, when using the voltage from the network to power lamps, the luminance they produce is proportional to the intensity they receive. Those skilled in the art would know there is a rectification process as well, but we shouldn't spoil a good story with non-linearities, should we?
+Finally, when using the voltage from the network to power lamps, the luminance they produce is proportional to the intensity they receive. Those skilled in the art would say there's a rectification process as well, but we shouldn't spoil a good story with non-linearities, should we?
   </p>
   <br style="line-height:0px;" />
 <p>
