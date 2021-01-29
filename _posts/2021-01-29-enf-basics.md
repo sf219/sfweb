@@ -57,7 +57,7 @@ Then, comparing this frequency with a ground-truth (a reference signal you know 
 <br />
 <br />
 <p>
-  Everything seems pretty easy. Now, I can introduce one of the real problems. What if the ENF is not the only source of variation in the luminance of the video? What if, for instance, there's movement? Logically, most of the interesting videos in practice have movement. The method I depicted above fails under this scenario (now, the blue one is the ground truth):
+  Everything seems pretty easy. Now, I can introduce one of the real problems. What if the ENF is not the only source of variation in the luminance of the video? For instance, most of the interesting videos in practice have movement. The method I depicted above fails under this scenario (now, the blue one is the ground truth):
 </p>
 <br />
    <table width="100%" height="100%" align="center" valign="center">
