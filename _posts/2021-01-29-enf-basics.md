@@ -4,6 +4,17 @@ title: "SPL2020-I: An invisible time-stamp"
 description: "SPL2020-I: An invisible time-stamp"
 comments: true
 ---
+<head>
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style> 
+</head> 
+<body>
 <div align="justify">
 <p>
 In this post, I aim to give a quick intro to the Electrical Network Frequency (ENF) and to provide a motivation to our letter on SPL.
@@ -19,7 +30,7 @@ First of all, the ENF is the name of a forensic criterion used in digital videos
 The electrical network has a nominal frequency of 50 Hz. That is, theoretically, it should be a beautiful waveform, as the following one:
 </p>
 <br />
-<img align="middle" width="500" src="{{ site.url }}/images_posts/SPL_I/temporal_perfect.png" alt="...">
+<img src="{{ site.url }}/images_posts/SPL_I/temporal_perfect.png" class="center">
 <br />
 <br />
 <p>
@@ -50,23 +61,24 @@ Then, comparing this frequency with a ground-truth (a reference signal you know 
 Here you have an example. The red one is obtained directly from the Internet, while the blue one is obtained from a video recorded on real time.
   </p>
 <br />
-<img align="middle" width="500" src="{{ site.url }}/images_posts/SPL_I/enf.png" alt="...">
+<img class="center" src="{{ site.url }}/images_posts/SPL_I/enf.png">
 <br />
 <br />
 <p>
   Everything seems pretty easy. Now, I can introduce one of the real problems. What if the ENF is not the only source of variation in the luminance of the video? What if, for instance, there is movement? Logically, most of the interesting videos in practice have movement. The method I depicted above fails under this scenario...
 </p>
 <br />
-<img align="middle" width="500" src="{{ site.url }}/images_posts/SPL_I/state_of_the_art.png" alt="...">
+<img class="center" src="{{ site.url }}/images_posts/SPL_I/state_of_the_art.png">
 <br />
 <br />
 <p>
   And this is the problem we tried to solve in our paper. As an spoiler, we obtained this:
 </p>
-  <img align="middle" width="500" src="{{ site.url }}/images_posts/SPL_I/completo.png" alt="...">
+  <img class="center" src="{{ site.url }}/images_posts/SPL_I/completo.png">
 <br />
 <br />
 <p>
   But I may write another entry only devoted to this. Hope you find this entertaining!
 </p>
 </div>
+</body>
