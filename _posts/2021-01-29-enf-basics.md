@@ -36,6 +36,7 @@ Even though, due to the generating mechanisms of the electrical energy, when the
 <p>
 Finally, when using the voltage from the network to power lamps, the luminance they produce is proportional to the intensity they receive. Those skilled in the art would know there is a rectification process as well, but we shouldn't spoil a good story with non-linearities, should we?
   </p>
+  <br />
 <p>
 Hence, the variations in the frequency of the network translate to variations in the luminance of the lamps. And they can be captured with digital cameras. Don't believe me? Check this <a href="https://youtu.be/u2g2YKe5Gcc" target="_blanck">Youtube video</a>. Or, for a realistic scenario, you can check this <a href="https://www.youtube.com/watch?v=rCgGNPl9DmM" target="_blanck">one</a>. Do you see the blink in the background? That's the ENF.
   </p>
@@ -44,9 +45,12 @@ Hence, the variations in the frequency of the network translate to variations in
 <p>
 You may wonder why you don't see this variation with your own eyes. Well, it's simply too fast. Cameras are able to record it due to a SigProc phenomena called aliasing, that reduces significantly the frequency of the blink. But it's unreachable for the human eye.
   </p>
+  <br />
 <p>
 All you have to do is to take the video, average the luminance of every pixel, and estimate the frequency (there are lots of methods with flashy names, as MUSIC or ESPRIT, for doing it).
 </p>
+<br />
+
 <p>
 Then, comparing this frequency with a ground-truth (a reference signal you know that is right in advance) would allow you to obtain, for example, the time of recording. Remember, the frequency is unique in time: it would only match with the correct segment.
   </p>
