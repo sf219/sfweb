@@ -30,11 +30,9 @@ Here I will drop some pages and facts I have found interesting. Most of them are
 <h3 style="font-family:Tahoma"> Technical Resources </h3>
 
 <ul>
-  <li> <a href="https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf" target="_blanck"> The Matrix Cookbook </a> helped me very often while dealing with algebra.</li>
-  <br/>
   <li> For a good guide on setting up your own webpage, have a look at <a href="https://jponttuset.cat/building-an-academic-website/" target="_blanck">Jordi Pont-Tuset's blog</a>, which is at the very foundation of my website. Another interesting resource might be <a href="https://jekyllrb.com/" target="_blanck"> Jekyll's website</a>.</li>
   <br/>
-  <li> For typing LaTeX, Sublime Text with the <a href="https://jdhao.github.io/2018/03/10/sublime-text-latextools-setup/" target="_blanck"> LatexTools package </a> + Sumatra PDF works like a charm for me. When collaborating, <a href="https://www.overleaf.com/" target="_blanck">Overleaf</a> is my way to go. A review of different options can be found <a href="https://tex.stackexchange.com/questions/339/latex-editors-ides" target = "_blanck">here</a>.</li>
+  <li> For typing, Vim is all I need.</li>
  <br/>
  <li> A comparison of different reference management software can be found <a href="https://mediatum.ub.tum.de/doc/1320978/1320978.pdf" target="_blanck">here</a>. Personally, I like <a href="https://www.jabref.org/" target="_blanck">JabRef</a>. For keeping the publications page up to date, I use <a href="https://github.com/fitheart/PubListX" target="_blanck">PubListX</a>.  </li>  
  <br/>
